@@ -222,7 +222,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - tntxxd
 
 env:
   TZ: America/New_York
